@@ -1,0 +1,1 @@
+(()=>{"use strict";console.log("sadasdasdad 131231"),document.body.innerHTML="<div>Hello</div>"})();
